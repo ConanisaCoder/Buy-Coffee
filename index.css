@@ -47,3 +47,6 @@ img{
     border-radius: 10px;
     border-width: 1px;
 }
+.View_Detials:hover{
+    cursor: pointer;
+}
