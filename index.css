@@ -1,0 +1,49 @@
+html{
+    font-family: Sofia Sans;
+    margin-left: 50px;
+    background-color: rgb(234 221 200);
+}
+.Item1{
+    text-align: center;
+    width: 350px;
+    height: 460px;
+    border-radius: 15px;
+    transition: all 0.25s;
+    background-color: white;
+    border: solid;
+    border-color: white;
+    border-width: 0.5px;
+    display: inline-block;
+}
+img{
+    width: 325px;
+}
+.Item1:hover{
+    border-color: darkgrey;
+}
+.Name_Item_1{
+    font-weight:bold;
+    font-size: 18px;
+    margin-left: 5px;
+}
+.Total{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: rgb(129, 118, 99);
+}
+.Price{
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.View_Detials{
+    border-color: rgb(234 221 200);
+    font-weight: bold;
+    background: none;
+    border: solid;
+    width: 325px;
+    height: 26px;
+    border-radius: 10px;
+    border-width: 1px;
+}
